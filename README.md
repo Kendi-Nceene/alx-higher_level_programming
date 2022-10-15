@@ -28,7 +28,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* **Tolulope Fakunle** <[Tolulope05](https://github.com/Tolulope05)>
+* **Kendi-Nceene** <[Kendi-Nceene](https://github.com/Kendi-Nceene)>
 
 ## Acknowledgements :pray:
 
